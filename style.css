@@ -230,7 +230,7 @@ nav li:last-child {
 }
 
 #top_ranking ul li dl dd{
-	width: 248px;
+	width: 240px;
 	height: 36px;
 	float: left;
 	line-height: 16px;
@@ -331,7 +331,7 @@ nav li:last-child {
 }
 
 #top_right ul#post_list li dl dt {
-	width: 240px;
+	width: 247px;
 	height: 152px;
 	float: left;
 	margin-right: 20px;
