@@ -171,7 +171,6 @@ nav li:last-child {
 	color: #dcdddf;
 }
 
- /*
 ========================================
     ランキング
 =========================================
@@ -230,14 +229,15 @@ nav li:last-child {
 }
 
 #top_ranking ul li dl dd{
-	width: auto;
-	height: 55px;
+	width: 248px;
+	height: 36px;
 	float: left;
+	line-height: 16px;
 }
 
 #top_ranking ul li dl dd h3 a {
 	font-size: 13px;
-	font-weight: bold;	
+	font-weight: bold;
 }
 
 .ranking_tag {
@@ -245,6 +245,7 @@ nav li:last-child {
 	font-size: 10px;
 	font-weight: bold;
 	padding: 0 3px;
+	line-height: 30px;
 }
 
 .webdesign {
